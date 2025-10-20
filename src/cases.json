@@ -1,0 +1,3362 @@
+[
+  {
+    "id": 1,
+    "pád": "1",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "kluk",
+    "solution": "kluk",
+    "starter": "ten",
+    "color": "#1e3a8a"
+  },
+  {
+    "id": 2,
+    "pád": "2",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "kluk",
+    "solution": "kluka",
+    "starter": "bez",
+    "color": "#1e3a8a"
+  },
+  {
+    "id": 3,
+    "pád": "3",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "kluk",
+    "solution": ["klukovi", "kluku"],
+    "starter": "k",
+    "color": "#1e3a8a"
+  },
+  {
+    "id": 4,
+    "pád": "4",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "kluk",
+    "solution": "kluka",
+    "starter": "vidím",
+    "color": "#1e3a8a"
+  },
+  {
+    "id": 5,
+    "pád": "5",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "kluk",
+    "solution": "kluku",
+    "starter": "hej",
+    "color": "#1e3a8a"
+  },
+  {
+    "id": 6,
+    "pád": "6",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "kluk",
+    "solution": "klukovi / kluku",
+    "starter": "o",
+    "color": "#1e3a8a"
+  },
+  {
+    "id": 7,
+    "pád": "7",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "kluk",
+    "solution": "klukem",
+    "starter": "s",
+    "color": "#1e3a8a"
+  },
+  {
+    "id": 8,
+    "pád": "1",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "kluk",
+    "solution": "kluci",
+    "starter": "ti",
+    "color": "#1e3a8a"
+  },
+  {
+    "id": 9,
+    "pád": "2",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "kluk",
+    "solution": "kluků",
+    "starter": "bez",
+    "color": "#1e3a8a"
+  },
+  {
+    "id": 10,
+    "pád": "3",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "kluk",
+    "solution": "klukům",
+    "starter": "k",
+    "color": "#1e3a8a"
+  },
+  {
+    "id": 11,
+    "pád": "4",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "kluk",
+    "solution": "kluky",
+    "starter": "vidím",
+    "color": "#1e3a8a"
+  },
+  {
+    "id": 12,
+    "pád": "5",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "kluk",
+    "solution": "kluci",
+    "starter": "hej",
+    "color": "#1e3a8a"
+  },
+  {
+    "id": 13,
+    "pád": "6",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "kluk",
+    "solution": "klucích",
+    "starter": "o",
+    "color": "#1e3a8a"
+  },
+  {
+    "id": 14,
+    "pád": "7",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "kluk",
+    "solution": "kluky",
+    "starter": "s",
+    "color": "#1e3a8a"
+  },
+  {
+    "id": 15,
+    "pád": "1",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "tatinek",
+    "solution": "tatínek",
+    "starter": "ten",
+    "color": "#1d4ed8"
+  },
+  {
+    "id": 16,
+    "pád": "2",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "tatinek",
+    "solution": "tatínka",
+    "starter": "bez",
+    "color": "#1d4ed8"
+  },
+  {
+    "id": 17,
+    "pád": "3",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "tatinek",
+    "solution": "tatínkovi / tatínku",
+    "starter": "k",
+    "color": "#1d4ed8"
+  },
+  {
+    "id": 18,
+    "pád": "4",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "tatinek",
+    "solution": "tatínka",
+    "starter": "vidím",
+    "color": "#1d4ed8"
+  },
+  {
+    "id": 19,
+    "pád": "5",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "tatinek",
+    "solution": "tatínku",
+    "starter": "hej",
+    "color": "#1d4ed8"
+  },
+  {
+    "id": 20,
+    "pád": "6",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "tatinek",
+    "solution": "tatínkovi / tatínku",
+    "starter": "o",
+    "color": "#1d4ed8"
+  },
+  {
+    "id": 21,
+    "pád": "7",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "tatinek",
+    "solution": "tatínkem",
+    "starter": "s",
+    "color": "#1d4ed8"
+  },
+  {
+    "id": 22,
+    "pád": "1",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "tatinek",
+    "solution": "tatínci / tatínkové",
+    "starter": "ti",
+    "color": "#1d4ed8"
+  },
+  {
+    "id": 23,
+    "pád": "2",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "tatinek",
+    "solution": "tatínků",
+    "starter": "bez",
+    "color": "#1d4ed8"
+  },
+  {
+    "id": 24,
+    "pád": "3",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "tatinek",
+    "solution": "tatínkům",
+    "starter": "k",
+    "color": "#1d4ed8"
+  },
+  {
+    "id": 25,
+    "pád": "4",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "tatinek",
+    "solution": "tatínky",
+    "starter": "vidím",
+    "color": "#1d4ed8"
+  },
+  {
+    "id": 26,
+    "pád": "5",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "tatinek",
+    "solution": "tatínci / tatínkové",
+    "starter": "hej",
+    "color": "#1d4ed8"
+  },
+  {
+    "id": 27,
+    "pád": "6",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "tatinek",
+    "solution": "tatíncích",
+    "starter": "o",
+    "color": "#1d4ed8"
+  },
+  {
+    "id": 28,
+    "pád": "7",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "tatinek",
+    "solution": "tatínky",
+    "starter": "s",
+    "color": "#1d4ed8"
+  },
+  {
+    "id": 29,
+    "pád": "1",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "vul",
+    "solution": "vůl",
+    "starter": "ten",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 30,
+    "pád": "2",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "vul",
+    "solution": "vola",
+    "starter": "bez",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 31,
+    "pád": "3",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "vul",
+    "solution": "volovi / volu",
+    "starter": "k",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 32,
+    "pád": "4",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "vul",
+    "solution": "vola",
+    "starter": "vidím",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 33,
+    "pád": "5",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "vul",
+    "solution": "vole",
+    "starter": "hej",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 34,
+    "pád": "6",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "vul",
+    "solution": "volovi / volu",
+    "starter": "o",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 35,
+    "pád": "7",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "vul",
+    "solution": "volem",
+    "starter": "s",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 36,
+    "pád": "1",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "vul",
+    "solution": "voli / volové",
+    "starter": "ti",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 37,
+    "pád": "2",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "vul",
+    "solution": "volů",
+    "starter": "bez",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 38,
+    "pád": "3",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "vul",
+    "solution": "volům",
+    "starter": "k",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 39,
+    "pád": "4",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "vul",
+    "solution": "voly",
+    "starter": "vidím",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 40,
+    "pád": "5",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "vul",
+    "solution": "voli / volové",
+    "starter": "hej",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 41,
+    "pád": "6",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "vul",
+    "solution": "volech",
+    "starter": "o",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 42,
+    "pád": "7",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "vul",
+    "solution": "voly",
+    "starter": "s",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 43,
+    "pád": "1",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "muz",
+    "solution": "muž",
+    "starter": "ten",
+    "color": "#60a5fa"
+  },
+  {
+    "id": 44,
+    "pád": "2",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "muz",
+    "solution": "muže",
+    "starter": "bez",
+    "color": "#60a5fa"
+  },
+  {
+    "id": 45,
+    "pád": "3",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "muz",
+    "solution": "muži",
+    "starter": "k",
+    "color": "#60a5fa"
+  },
+  {
+    "id": 46,
+    "pád": "4",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "muz",
+    "solution": "muže",
+    "starter": "vidím",
+    "color": "#60a5fa"
+  },
+  {
+    "id": 47,
+    "pád": "5",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "muz",
+    "solution": "muži",
+    "starter": "hej",
+    "color": "#60a5fa"
+  },
+  {
+    "id": 48,
+    "pád": "6",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "muz",
+    "solution": "muži",
+    "starter": "o",
+    "color": "#60a5fa"
+  },
+  {
+    "id": 49,
+    "pád": "7",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "muz",
+    "solution": "mužem",
+    "starter": "s",
+    "color": "#60a5fa"
+  },
+  {
+    "id": 50,
+    "pád": "1",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "muz",
+    "solution": "muži",
+    "starter": "ti",
+    "color": "#60a5fa"
+  },
+  {
+    "id": 51,
+    "pád": "2",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "muz",
+    "solution": "mužů",
+    "starter": "bez",
+    "color": "#60a5fa"
+  },
+  {
+    "id": 52,
+    "pád": "3",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "muz",
+    "solution": "mužům",
+    "starter": "k",
+    "color": "#60a5fa"
+  },
+  {
+    "id": 53,
+    "pád": "4",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "muz",
+    "solution": "muže",
+    "starter": "vidím",
+    "color": "#60a5fa"
+  },
+  {
+    "id": 54,
+    "pád": "5",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "muz",
+    "solution": "muži",
+    "starter": "hej",
+    "color": "#60a5fa"
+  },
+  {
+    "id": 55,
+    "pád": "6",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "muz",
+    "solution": "mužích",
+    "starter": "o",
+    "color": "#60a5fa"
+  },
+  {
+    "id": 56,
+    "pád": "7",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "muz",
+    "solution": "muži",
+    "starter": "s",
+    "color": "#60a5fa"
+  },
+  {
+    "id": 57,
+    "pád": "1",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "tenista",
+    "solution": "tenista",
+    "starter": "ten",
+    "color": "#93c5fd"
+  },
+  {
+    "id": 58,
+    "pád": "2",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "tenista",
+    "solution": "tenisty",
+    "starter": "bez",
+    "color": "#93c5fd"
+  },
+  {
+    "id": 59,
+    "pád": "3",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "tenista",
+    "solution": "tenistovi",
+    "starter": "k",
+    "color": "#93c5fd"
+  },
+  {
+    "id": 60,
+    "pád": "4",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "tenista",
+    "solution": "tenistu",
+    "starter": "vidím",
+    "color": "#93c5fd"
+  },
+  {
+    "id": 61,
+    "pád": "5",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "tenista",
+    "solution": "tenisto",
+    "starter": "hej",
+    "color": "#93c5fd"
+  },
+  {
+    "id": 62,
+    "pád": "6",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "tenista",
+    "solution": "tenistovi",
+    "starter": "o",
+    "color": "#93c5fd"
+  },
+  {
+    "id": 63,
+    "pád": "7",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "tenista",
+    "solution": "tenistou",
+    "starter": "s",
+    "color": "#93c5fd"
+  },
+  {
+    "id": 64,
+    "pád": "1",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "tenista",
+    "solution": "tenisté / tenisti",
+    "starter": "ti",
+    "color": "#93c5fd"
+  },
+  {
+    "id": 65,
+    "pád": "2",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "tenista",
+    "solution": "tenistů",
+    "starter": "bez",
+    "color": "#93c5fd"
+  },
+  {
+    "id": 66,
+    "pád": "3",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "tenista",
+    "solution": "tenistům",
+    "starter": "k",
+    "color": "#93c5fd"
+  },
+  {
+    "id": 67,
+    "pád": "4",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "tenista",
+    "solution": "tenisty",
+    "starter": "vidím",
+    "color": "#93c5fd"
+  },
+  {
+    "id": 68,
+    "pád": "5",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "tenista",
+    "solution": "tenisté / tenisti",
+    "starter": "hej",
+    "color": "#93c5fd"
+  },
+  {
+    "id": 69,
+    "pád": "6",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "tenista",
+    "solution": "tenistech",
+    "starter": "o",
+    "color": "#93c5fd"
+  },
+  {
+    "id": 70,
+    "pád": "7",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "tenista",
+    "solution": "tenisty",
+    "starter": "s",
+    "color": "#93c5fd"
+  },
+  {
+    "id": 71,
+    "pád": "1",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "soudce",
+    "solution": "soudce",
+    "starter": "ten",
+    "color": "#bfdbfe"
+  },
+  {
+    "id": 72,
+    "pád": "2",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "soudce",
+    "solution": "soudce",
+    "starter": "bez",
+    "color": "#bfdbfe"
+  },
+  {
+    "id": 73,
+    "pád": "3",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "soudce",
+    "solution": "soudci",
+    "starter": "k",
+    "color": "#bfdbfe"
+  },
+  {
+    "id": 74,
+    "pád": "4",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "soudce",
+    "solution": "soudce",
+    "starter": "vidím",
+    "color": "#bfdbfe"
+  },
+  {
+    "id": 75,
+    "pád": "5",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "soudce",
+    "solution": "soudce",
+    "starter": "hej",
+    "color": "#bfdbfe"
+  },
+  {
+    "id": 76,
+    "pád": "6",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "soudce",
+    "solution": "soudci",
+    "starter": "o",
+    "color": "#bfdbfe"
+  },
+  {
+    "id": 77,
+    "pád": "7",
+    "rod": "Mužský životný",
+    "číslo": "Jednotné",
+    "model": "soudce",
+    "solution": "soudcem",
+    "starter": "s",
+    "color": "#bfdbfe"
+  },
+  {
+    "id": 78,
+    "pád": "1",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "soudce",
+    "solution": "soudci",
+    "starter": "ti",
+    "color": "#bfdbfe"
+  },
+  {
+    "id": 79,
+    "pád": "2",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "soudce",
+    "solution": "soudců",
+    "starter": "bez",
+    "color": "#bfdbfe"
+  },
+  {
+    "id": 80,
+    "pád": "3",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "soudce",
+    "solution": "soudcům",
+    "starter": "k",
+    "color": "#bfdbfe"
+  },
+  {
+    "id": 81,
+    "pád": "4",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "soudce",
+    "solution": "soudce",
+    "starter": "vidím",
+    "color": "#bfdbfe"
+  },
+  {
+    "id": 82,
+    "pád": "5",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "soudce",
+    "solution": "soudci",
+    "starter": "hej",
+    "color": "#bfdbfe"
+  },
+  {
+    "id": 83,
+    "pád": "6",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "soudce",
+    "solution": "soudcích",
+    "starter": "o",
+    "color": "#bfdbfe"
+  },
+  {
+    "id": 84,
+    "pád": "7",
+    "rod": "Mužský životný",
+    "číslo": "Množné",
+    "model": "soudce",
+    "solution": "soudci",
+    "starter": "s",
+    "color": "#bfdbfe"
+  },
+  {
+    "id": 85,
+    "pád": "1",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "kousek",
+    "solution": "kousek",
+    "starter": "ten",
+    "color": "#065f46"
+  },
+  {
+    "id": 86,
+    "pád": "2",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "kousek",
+    "solution": "kousku",
+    "starter": "bez",
+    "color": "#065f46"
+  },
+  {
+    "id": 87,
+    "pád": "3",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "kousek",
+    "solution": "kousku",
+    "starter": "k",
+    "color": "#065f46"
+  },
+  {
+    "id": 88,
+    "pád": "4",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "kousek",
+    "solution": "kousek",
+    "starter": "vidím",
+    "color": "#065f46"
+  },
+  {
+    "id": 89,
+    "pád": "5",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "kousek",
+    "solution": "kousku",
+    "starter": "hej",
+    "color": "#065f46"
+  },
+  {
+    "id": 90,
+    "pád": "6",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "kousek",
+    "solution": "kousku",
+    "starter": "o",
+    "color": "#065f46"
+  },
+  {
+    "id": 91,
+    "pád": "7",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "kousek",
+    "solution": "kouskem",
+    "starter": "s",
+    "color": "#065f46"
+  },
+  {
+    "id": 92,
+    "pád": "1",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "kousek",
+    "solution": "kousky",
+    "starter": "ty",
+    "color": "#065f46"
+  },
+  {
+    "id": 93,
+    "pád": "2",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "kousek",
+    "solution": "kousků",
+    "starter": "bez",
+    "color": "#065f46"
+  },
+  {
+    "id": 94,
+    "pád": "3",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "kousek",
+    "solution": "kouskům",
+    "starter": "k",
+    "color": "#065f46"
+  },
+  {
+    "id": 95,
+    "pád": "4",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "kousek",
+    "solution": "kousky",
+    "starter": "vidím",
+    "color": "#065f46"
+  },
+  {
+    "id": 96,
+    "pád": "5",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "kousek",
+    "solution": "kousky",
+    "starter": "hej",
+    "color": "#065f46"
+  },
+  {
+    "id": 97,
+    "pád": "6",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "kousek",
+    "solution": "kouscích",
+    "starter": "o",
+    "color": "#065f46"
+  },
+  {
+    "id": 98,
+    "pád": "7",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "kousek",
+    "solution": "kousky",
+    "starter": "s",
+    "color": "#065f46"
+  },
+  {
+    "id": 99,
+    "pád": "1",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "obed",
+    "solution": "oběd",
+    "starter": "ten",
+    "color": "#047857"
+  },
+  {
+    "id": 100,
+    "pád": "2",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "obed",
+    "solution": "oběda",
+    "starter": "bez",
+    "color": "#047857"
+  },
+  {
+    "id": 101,
+    "pád": "3",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "obed",
+    "solution": "obědu",
+    "starter": "k",
+    "color": "#047857"
+  },
+  {
+    "id": 102,
+    "pád": "4",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "obed",
+    "solution": "oběd",
+    "starter": "vidím",
+    "color": "#047857"
+  },
+  {
+    "id": 103,
+    "pád": "5",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "obed",
+    "solution": "oběde",
+    "starter": "hej",
+    "color": "#047857"
+  },
+  {
+    "id": 104,
+    "pád": "6",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "obed",
+    "solution": "obědě",
+    "starter": "o",
+    "color": "#047857"
+  },
+  {
+    "id": 105,
+    "pád": "7",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "obed",
+    "solution": "obědem",
+    "starter": "s",
+    "color": "#047857"
+  },
+  {
+    "id": 106,
+    "pád": "1",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "obed",
+    "solution": "obědy",
+    "starter": "ty",
+    "color": "#047857"
+  },
+  {
+    "id": 107,
+    "pád": "2",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "obed",
+    "solution": "obědů",
+    "starter": "bez",
+    "color": "#047857"
+  },
+  {
+    "id": 108,
+    "pád": "3",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "obed",
+    "solution": "obědům",
+    "starter": "k",
+    "color": "#047857"
+  },
+  {
+    "id": 109,
+    "pád": "4",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "obed",
+    "solution": "obědy",
+    "starter": "vidím",
+    "color": "#047857"
+  },
+  {
+    "id": 110,
+    "pád": "5",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "obed",
+    "solution": "obědy",
+    "starter": "hej",
+    "color": "#047857"
+  },
+  {
+    "id": 111,
+    "pád": "6",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "obed",
+    "solution": "obědech",
+    "starter": "o",
+    "color": "#047857"
+  },
+  {
+    "id": 112,
+    "pád": "7",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "obed",
+    "solution": "obědy",
+    "starter": "s",
+    "color": "#047857"
+  },
+  {
+    "id": 113,
+    "pád": "1",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "dum",
+    "solution": "dům",
+    "starter": "ten",
+    "color": "#10b981"
+  },
+  {
+    "id": 114,
+    "pád": "2",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "dum",
+    "solution": "domu",
+    "starter": "bez",
+    "color": "#10b981"
+  },
+  {
+    "id": 115,
+    "pád": "3",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "dum",
+    "solution": "domu",
+    "starter": "k",
+    "color": "#10b981"
+  },
+  {
+    "id": 116,
+    "pád": "4",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "dum",
+    "solution": "dům",
+    "starter": "vidím",
+    "color": "#10b981"
+  },
+  {
+    "id": 117,
+    "pád": "5",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "dum",
+    "solution": "dome",
+    "starter": "hej",
+    "color": "#10b981"
+  },
+  {
+    "id": 118,
+    "pád": "6",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "dum",
+    "solution": "domě",
+    "starter": "o",
+    "color": "#10b981"
+  },
+  {
+    "id": 119,
+    "pád": "7",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "dum",
+    "solution": "domem",
+    "starter": "s",
+    "color": "#10b981"
+  },
+  {
+    "id": 120,
+    "pád": "1",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "dum",
+    "solution": "domy",
+    "starter": "ty",
+    "color": "#10b981"
+  },
+  {
+    "id": 121,
+    "pád": "2",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "dum",
+    "solution": "domů",
+    "starter": "bez",
+    "color": "#10b981"
+  },
+  {
+    "id": 122,
+    "pád": "3",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "dum",
+    "solution": "domům",
+    "starter": "k",
+    "color": "#10b981"
+  },
+  {
+    "id": 123,
+    "pád": "4",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "dum",
+    "solution": "domy",
+    "starter": "vidím",
+    "color": "#10b981"
+  },
+  {
+    "id": 124,
+    "pád": "5",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "dum",
+    "solution": "domy",
+    "starter": "hej",
+    "color": "#10b981"
+  },
+  {
+    "id": 125,
+    "pád": "6",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "dum",
+    "solution": "domech",
+    "starter": "o",
+    "color": "#10b981"
+  },
+  {
+    "id": 126,
+    "pád": "7",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "dum",
+    "solution": "domy",
+    "starter": "s",
+    "color": "#10b981"
+  },
+  {
+    "id": 127,
+    "pád": "1",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "nuz",
+    "solution": "nůž",
+    "starter": "ten",
+    "color": "#34d399"
+  },
+  {
+    "id": 128,
+    "pád": "2",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "nuz",
+    "solution": "nože",
+    "starter": "bez",
+    "color": "#34d399"
+  },
+  {
+    "id": 129,
+    "pád": "3",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "nuz",
+    "solution": "noži",
+    "starter": "k",
+    "color": "#34d399"
+  },
+  {
+    "id": 130,
+    "pád": "4",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "nuz",
+    "solution": "nůž",
+    "starter": "vidím",
+    "color": "#34d399"
+  },
+  {
+    "id": 131,
+    "pád": "5",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "nuz",
+    "solution": "noži",
+    "starter": "hej",
+    "color": "#34d399"
+  },
+  {
+    "id": 132,
+    "pád": "6",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "nuz",
+    "solution": "noži",
+    "starter": "o",
+    "color": "#34d399"
+  },
+  {
+    "id": 133,
+    "pád": "7",
+    "rod": "Mužský neživotný",
+    "číslo": "Jednotné",
+    "model": "nuz",
+    "solution": "nožem",
+    "starter": "s",
+    "color": "#34d399"
+  },
+  {
+    "id": 134,
+    "pád": "1",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "nuz",
+    "solution": "nože",
+    "starter": "ty",
+    "color": "#34d399"
+  },
+  {
+    "id": 135,
+    "pád": "2",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "nuz",
+    "solution": "nožů",
+    "starter": "bez",
+    "color": "#34d399"
+  },
+  {
+    "id": 136,
+    "pád": "3",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "nuz",
+    "solution": "nožům",
+    "starter": "k",
+    "color": "#34d399"
+  },
+  {
+    "id": 137,
+    "pád": "4",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "nuz",
+    "solution": "nože",
+    "starter": "vidím",
+    "color": "#34d399"
+  },
+  {
+    "id": 138,
+    "pád": "5",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "nuz",
+    "solution": "nože",
+    "starter": "hej",
+    "color": "#34d399"
+  },
+  {
+    "id": 139,
+    "pád": "6",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "nuz",
+    "solution": "nožích",
+    "starter": "o",
+    "color": "#34d399"
+  },
+  {
+    "id": 140,
+    "pád": "7",
+    "rod": "Mužský neživotný",
+    "číslo": "Množné",
+    "model": "nuz",
+    "solution": "noži",
+    "starter": "s",
+    "color": "#34d399"
+  },
+  {
+    "id": 141,
+    "pád": "1",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "zena",
+    "solution": "žena",
+    "starter": "ta",
+    "color": "#9d174d"
+  },
+  {
+    "id": 142,
+    "pád": "2",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "zena",
+    "solution": "ženy",
+    "starter": "bez",
+    "color": "#9d174d"
+  },
+  {
+    "id": 143,
+    "pád": "3",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "zena",
+    "solution": "ženě",
+    "starter": "k",
+    "color": "#9d174d"
+  },
+  {
+    "id": 144,
+    "pád": "4",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "zena",
+    "solution": "ženu",
+    "starter": "vidím",
+    "color": "#9d174d"
+  },
+  {
+    "id": 145,
+    "pád": "5",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "zena",
+    "solution": "ženo",
+    "starter": "hej",
+    "color": "#9d174d"
+  },
+  {
+    "id": 146,
+    "pád": "6",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "zena",
+    "solution": "ženě",
+    "starter": "o",
+    "color": "#9d174d"
+  },
+  {
+    "id": 147,
+    "pád": "7",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "zena",
+    "solution": "ženou",
+    "starter": "s",
+    "color": "#9d174d"
+  },
+  {
+    "id": 148,
+    "pád": "1",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "zena",
+    "solution": "ženy",
+    "starter": "ty",
+    "color": "#9d174d"
+  },
+  {
+    "id": 149,
+    "pád": "2",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "zena",
+    "solution": "žen",
+    "starter": "bez",
+    "color": "#9d174d"
+  },
+  {
+    "id": 150,
+    "pád": "3",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "zena",
+    "solution": "ženám",
+    "starter": "k",
+    "color": "#9d174d"
+  },
+  {
+    "id": 151,
+    "pád": "4",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "zena",
+    "solution": "ženy",
+    "starter": "vidím",
+    "color": "#9d174d"
+  },
+  {
+    "id": 152,
+    "pád": "5",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "zena",
+    "solution": "ženy",
+    "starter": "hej",
+    "color": "#9d174d"
+  },
+  {
+    "id": 153,
+    "pád": "6",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "zena",
+    "solution": "ženách",
+    "starter": "o",
+    "color": "#9d174d"
+  },
+  {
+    "id": 154,
+    "pád": "7",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "zena",
+    "solution": "ženami",
+    "starter": "s",
+    "color": "#9d174d"
+  },
+  {
+    "id": 155,
+    "pád": "1",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "socha",
+    "solution": "socha",
+    "starter": "ta",
+    "color": "#be185d"
+  },
+  {
+    "id": 156,
+    "pád": "2",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "socha",
+    "solution": "sochy",
+    "starter": "bez",
+    "color": "#be185d"
+  },
+  {
+    "id": 157,
+    "pád": "3",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "socha",
+    "solution": "soše",
+    "starter": "k",
+    "color": "#be185d"
+  },
+  {
+    "id": 158,
+    "pád": "4",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "socha",
+    "solution": "sochu",
+    "starter": "vidím",
+    "color": "#be185d"
+  },
+  {
+    "id": 159,
+    "pád": "5",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "socha",
+    "solution": "socho",
+    "starter": "hej",
+    "color": "#be185d"
+  },
+  {
+    "id": 160,
+    "pád": "6",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "socha",
+    "solution": "soše",
+    "starter": "o",
+    "color": "#be185d"
+  },
+  {
+    "id": 161,
+    "pád": "7",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "socha",
+    "solution": "sochou",
+    "starter": "s",
+    "color": "#be185d"
+  },
+  {
+    "id": 162,
+    "pád": "1",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "socha",
+    "solution": "sochy",
+    "starter": "ty",
+    "color": "#be185d"
+  },
+  {
+    "id": 163,
+    "pád": "2",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "socha",
+    "solution": "soch",
+    "starter": "bez",
+    "color": "#be185d"
+  },
+  {
+    "id": 164,
+    "pád": "3",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "socha",
+    "solution": "sochám",
+    "starter": "k",
+    "color": "#be185d"
+  },
+  {
+    "id": 165,
+    "pád": "4",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "socha",
+    "solution": "sochy",
+    "starter": "vidím",
+    "color": "#be185d"
+  },
+  {
+    "id": 166,
+    "pád": "5",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "socha",
+    "solution": "sochy",
+    "starter": "hej",
+    "color": "#be185d"
+  },
+  {
+    "id": 167,
+    "pád": "6",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "socha",
+    "solution": "sochách",
+    "starter": "o",
+    "color": "#be185d"
+  },
+  {
+    "id": 168,
+    "pád": "7",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "socha",
+    "solution": "sochami",
+    "starter": "s",
+    "color": "#be185d"
+  },
+  {
+    "id": 169,
+    "pád": "1",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "dasa",
+    "solution": "Dáša",
+    "starter": "ta",
+    "color": "#db2777"
+  },
+  {
+    "id": 170,
+    "pád": "2",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "dasa",
+    "solution": "Dáši",
+    "starter": "bez",
+    "color": "#db2777"
+  },
+  {
+    "id": 171,
+    "pád": "3",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "dasa",
+    "solution": "Dáše",
+    "starter": "k",
+    "color": "#db2777"
+  },
+  {
+    "id": 172,
+    "pád": "4",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "dasa",
+    "solution": "Dášu",
+    "starter": "vidím",
+    "color": "#db2777"
+  },
+  {
+    "id": 173,
+    "pád": "5",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "dasa",
+    "solution": "Dášo",
+    "starter": "hej",
+    "color": "#db2777"
+  },
+  {
+    "id": 174,
+    "pád": "6",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "dasa",
+    "solution": "Dáše",
+    "starter": "o",
+    "color": "#db2777"
+  },
+  {
+    "id": 175,
+    "pád": "7",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "dasa",
+    "solution": "Dášou",
+    "starter": "s",
+    "color": "#db2777"
+  },
+  {
+    "id": 176,
+    "pád": "1",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "dasa",
+    "solution": "Dáši",
+    "starter": "ty",
+    "color": "#db2777"
+  },
+  {
+    "id": 177,
+    "pád": "2",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "dasa",
+    "solution": "Dáš",
+    "starter": "bez",
+    "color": "#db2777"
+  },
+  {
+    "id": 178,
+    "pád": "3",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "dasa",
+    "solution": "Dášám",
+    "starter": "k",
+    "color": "#db2777"
+  },
+  {
+    "id": 179,
+    "pád": "4",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "dasa",
+    "solution": "Dáši",
+    "starter": "vidím",
+    "color": "#db2777"
+  },
+  {
+    "id": 180,
+    "pád": "5",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "dasa",
+    "solution": "Dáši",
+    "starter": "hej",
+    "color": "#db2777"
+  },
+  {
+    "id": 181,
+    "pád": "6",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "dasa",
+    "solution": "Dášách",
+    "starter": "o",
+    "color": "#db2777"
+  },
+  {
+    "id": 182,
+    "pád": "7",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "dasa",
+    "solution": "Dášami",
+    "starter": "s",
+    "color": "#db2777"
+  },
+  {
+    "id": 183,
+    "pád": "1",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "ruze",
+    "solution": "růže",
+    "starter": "ta",
+    "color": "#ec4899"
+  },
+  {
+    "id": 184,
+    "pád": "2",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "ruze",
+    "solution": "růže",
+    "starter": "bez",
+    "color": "#ec4899"
+  },
+  {
+    "id": 185,
+    "pád": "3",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "ruze",
+    "solution": "růži",
+    "starter": "k",
+    "color": "#ec4899"
+  },
+  {
+    "id": 186,
+    "pád": "4",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "ruze",
+    "solution": "růži",
+    "starter": "vidím",
+    "color": "#ec4899"
+  },
+  {
+    "id": 187,
+    "pád": "5",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "ruze",
+    "solution": "růže",
+    "starter": "hej",
+    "color": "#ec4899"
+  },
+  {
+    "id": 188,
+    "pád": "6",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "ruze",
+    "solution": "růži",
+    "starter": "o",
+    "color": "#ec4899"
+  },
+  {
+    "id": 189,
+    "pád": "7",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "ruze",
+    "solution": "růží",
+    "starter": "s",
+    "color": "#ec4899"
+  },
+  {
+    "id": 190,
+    "pád": "1",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "ruze",
+    "solution": "růže",
+    "starter": "ty",
+    "color": "#ec4899"
+  },
+  {
+    "id": 191,
+    "pád": "2",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "ruze",
+    "solution": "růží",
+    "starter": "bez",
+    "color": "#ec4899"
+  },
+  {
+    "id": 192,
+    "pád": "3",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "ruze",
+    "solution": "růžím",
+    "starter": "k",
+    "color": "#ec4899"
+  },
+  {
+    "id": 193,
+    "pád": "4",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "ruze",
+    "solution": "růže",
+    "starter": "vidím",
+    "color": "#ec4899"
+  },
+  {
+    "id": 194,
+    "pád": "5",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "ruze",
+    "solution": "růže",
+    "starter": "hej",
+    "color": "#ec4899"
+  },
+  {
+    "id": 195,
+    "pád": "6",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "ruze",
+    "solution": "růžích",
+    "starter": "o",
+    "color": "#ec4899"
+  },
+  {
+    "id": 196,
+    "pád": "7",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "ruze",
+    "solution": "růžemi",
+    "starter": "s",
+    "color": "#ec4899"
+  },
+  {
+    "id": 197,
+    "pád": "1",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "kolej",
+    "solution": "kolej",
+    "starter": "ta",
+    "color": "#f472b6"
+  },
+  {
+    "id": 198,
+    "pád": "2",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "kolej",
+    "solution": "koleje",
+    "starter": "bez",
+    "color": "#f472b6"
+  },
+  {
+    "id": 199,
+    "pád": "3",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "kolej",
+    "solution": "koleji",
+    "starter": "k",
+    "color": "#f472b6"
+  },
+  {
+    "id": 200,
+    "pád": "4",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "kolej",
+    "solution": "kolej",
+    "starter": "vidím",
+    "color": "#f472b6"
+  },
+  {
+    "id": 201,
+    "pád": "5",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "kolej",
+    "solution": "koleji",
+    "starter": "hej",
+    "color": "#f472b6"
+  },
+  {
+    "id": 202,
+    "pád": "6",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "kolej",
+    "solution": "koleji",
+    "starter": "o",
+    "color": "#f472b6"
+  },
+  {
+    "id": 203,
+    "pád": "7",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "kolej",
+    "solution": "kolejí",
+    "starter": "s",
+    "color": "#f472b6"
+  },
+  {
+    "id": 204,
+    "pád": "1",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "kolej",
+    "solution": "koleje",
+    "starter": "ty",
+    "color": "#f472b6"
+  },
+  {
+    "id": 205,
+    "pád": "2",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "kolej",
+    "solution": "kolejí",
+    "starter": "bez",
+    "color": "#f472b6"
+  },
+  {
+    "id": 206,
+    "pád": "3",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "kolej",
+    "solution": "kolejím",
+    "starter": "k",
+    "color": "#f472b6"
+  },
+  {
+    "id": 207,
+    "pád": "4",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "kolej",
+    "solution": "koleje",
+    "starter": "vidím",
+    "color": "#f472b6"
+  },
+  {
+    "id": 208,
+    "pád": "5",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "kolej",
+    "solution": "koleje",
+    "starter": "hej",
+    "color": "#f472b6"
+  },
+  {
+    "id": 209,
+    "pád": "6",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "kolej",
+    "solution": "kolejích",
+    "starter": "o",
+    "color": "#f472b6"
+  },
+  {
+    "id": 210,
+    "pád": "7",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "kolej",
+    "solution": "kolejemi",
+    "starter": "s",
+    "color": "#f472b6"
+  },
+  {
+    "id": 211,
+    "pád": "1",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "skrin",
+    "solution": "skříň",
+    "starter": "ta",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": 212,
+    "pád": "2",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "skrin",
+    "solution": "skříně",
+    "starter": "bez",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": 213,
+    "pád": "3",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "skrin",
+    "solution": "skříni",
+    "starter": "k",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": 214,
+    "pád": "4",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "skrin",
+    "solution": "skříň",
+    "starter": "vidím",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": 215,
+    "pád": "5",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "skrin",
+    "solution": "skříně",
+    "starter": "hej",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": 216,
+    "pád": "6",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "skrin",
+    "solution": "skříni",
+    "starter": "o",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": 217,
+    "pád": "7",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "skrin",
+    "solution": "skříní",
+    "starter": "s",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": 218,
+    "pád": "1",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "skrin",
+    "solution": "skříně",
+    "starter": "ty",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": 219,
+    "pád": "2",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "skrin",
+    "solution": "skříní",
+    "starter": "bez",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": 220,
+    "pád": "3",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "skrin",
+    "solution": "skříním",
+    "starter": "k",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": 221,
+    "pád": "4",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "skrin",
+    "solution": "skříně",
+    "starter": "vidím",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": 222,
+    "pád": "5",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "skrin",
+    "solution": "skříně",
+    "starter": "hej",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": 223,
+    "pád": "6",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "skrin",
+    "solution": "skříních",
+    "starter": "o",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": 224,
+    "pád": "7",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "skrin",
+    "solution": "skříněmi",
+    "starter": "s",
+    "color": "#f9a8d4"
+  },
+  {
+    "id": 225,
+    "pád": "1",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "kost",
+    "solution": "kost",
+    "starter": "ta",
+    "color": "#fda4af"
+  },
+  {
+    "id": 226,
+    "pád": "2",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "kost",
+    "solution": "kosti",
+    "starter": "bez",
+    "color": "#fda4af"
+  },
+  {
+    "id": 227,
+    "pád": "3",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "kost",
+    "solution": "kosti",
+    "starter": "k",
+    "color": "#fda4af"
+  },
+  {
+    "id": 228,
+    "pád": "4",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "kost",
+    "solution": "kost",
+    "starter": "vidím",
+    "color": "#fda4af"
+  },
+  {
+    "id": 229,
+    "pád": "5",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "kost",
+    "solution": "kosti",
+    "starter": "hej",
+    "color": "#fda4af"
+  },
+  {
+    "id": 230,
+    "pád": "6",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "kost",
+    "solution": "kosti",
+    "starter": "o",
+    "color": "#fda4af"
+  },
+  {
+    "id": 231,
+    "pád": "7",
+    "rod": "Ženský",
+    "číslo": "Jednotné",
+    "model": "kost",
+    "solution": "kostí",
+    "starter": "s",
+    "color": "#fda4af"
+  },
+  {
+    "id": 232,
+    "pád": "1",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "kost",
+    "solution": "kosti",
+    "starter": "ty",
+    "color": "#fda4af"
+  },
+  {
+    "id": 233,
+    "pád": "2",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "kost",
+    "solution": "kostí",
+    "starter": "bez",
+    "color": "#fda4af"
+  },
+  {
+    "id": 234,
+    "pád": "3",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "kost",
+    "solution": "kostem",
+    "starter": "k",
+    "color": "#fda4af"
+  },
+  {
+    "id": 235,
+    "pád": "4",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "kost",
+    "solution": "kosti",
+    "starter": "vidím",
+    "color": "#fda4af"
+  },
+  {
+    "id": 236,
+    "pád": "5",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "kost",
+    "solution": "kosti",
+    "starter": "hej",
+    "color": "#fda4af"
+  },
+  {
+    "id": 237,
+    "pád": "6",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "kost",
+    "solution": "kostech",
+    "starter": "o",
+    "color": "#fda4af"
+  },
+  {
+    "id": 238,
+    "pád": "7",
+    "rod": "Ženský",
+    "číslo": "Množné",
+    "model": "kost",
+    "solution": "kostmi",
+    "starter": "s",
+    "color": "#fda4af"
+  },
+  {
+    "id": 239,
+    "pád": "1",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "auto",
+    "solution": "auto",
+    "starter": "to",
+    "color": "#6d28d9"
+  },
+  {
+    "id": 240,
+    "pád": "2",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "auto",
+    "solution": "auta",
+    "starter": "bez",
+    "color": "#6d28d9"
+  },
+  {
+    "id": 241,
+    "pád": "3",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "auto",
+    "solution": "autu",
+    "starter": "k",
+    "color": "#6d28d9"
+  },
+  {
+    "id": 242,
+    "pád": "4",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "auto",
+    "solution": "auto",
+    "starter": "vidím",
+    "color": "#6d28d9"
+  },
+  {
+    "id": 243,
+    "pád": "5",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "auto",
+    "solution": "auto",
+    "starter": "hej",
+    "color": "#6d28d9"
+  },
+  {
+    "id": 244,
+    "pád": "6",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "auto",
+    "solution": "autě",
+    "starter": "o",
+    "color": "#6d28d9"
+  },
+  {
+    "id": 245,
+    "pád": "7",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "auto",
+    "solution": "autem",
+    "starter": "s",
+    "color": "#6d28d9"
+  },
+  {
+    "id": 246,
+    "pád": "1",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "auto",
+    "solution": "auta",
+    "starter": "ta",
+    "color": "#6d28d9"
+  },
+  {
+    "id": 247,
+    "pád": "2",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "auto",
+    "solution": "aut",
+    "starter": "bez",
+    "color": "#6d28d9"
+  },
+  {
+    "id": 248,
+    "pád": "3",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "auto",
+    "solution": "autům",
+    "starter": "k",
+    "color": "#6d28d9"
+  },
+  {
+    "id": 249,
+    "pád": "4",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "auto",
+    "solution": "auta",
+    "starter": "vidím",
+    "color": "#6d28d9"
+  },
+  {
+    "id": 250,
+    "pád": "5",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "auto",
+    "solution": "auta",
+    "starter": "hej",
+    "color": "#6d28d9"
+  },
+  {
+    "id": 251,
+    "pád": "6",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "auto",
+    "solution": "autech",
+    "starter": "o",
+    "color": "#6d28d9"
+  },
+  {
+    "id": 252,
+    "pád": "7",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "auto",
+    "solution": "auty",
+    "starter": "s",
+    "color": "#6d28d9"
+  },
+  {
+    "id": 253,
+    "pád": "1",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "more",
+    "solution": "moře",
+    "starter": "to",
+    "color": "#7c3aed"
+  },
+  {
+    "id": 254,
+    "pád": "2",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "more",
+    "solution": "moře",
+    "starter": "bez",
+    "color": "#7c3aed"
+  },
+  {
+    "id": 255,
+    "pád": "3",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "more",
+    "solution": "moři",
+    "starter": "k",
+    "color": "#7c3aed"
+  },
+  {
+    "id": 256,
+    "pád": "4",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "more",
+    "solution": "moře",
+    "starter": "vidím",
+    "color": "#7c3aed"
+  },
+  {
+    "id": 257,
+    "pád": "5",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "more",
+    "solution": "moře",
+    "starter": "hej",
+    "color": "#7c3aed"
+  },
+  {
+    "id": 258,
+    "pád": "6",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "more",
+    "solution": "moři",
+    "starter": "o",
+    "color": "#7c3aed"
+  },
+  {
+    "id": 259,
+    "pád": "7",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "more",
+    "solution": "mořem",
+    "starter": "s",
+    "color": "#7c3aed"
+  },
+  {
+    "id": 260,
+    "pád": "1",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "more",
+    "solution": "moře",
+    "starter": "ta",
+    "color": "#7c3aed"
+  },
+  {
+    "id": 261,
+    "pád": "2",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "more",
+    "solution": "moří",
+    "starter": "bez",
+    "color": "#7c3aed"
+  },
+  {
+    "id": 262,
+    "pád": "3",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "more",
+    "solution": "mořím",
+    "starter": "k",
+    "color": "#7c3aed"
+  },
+  {
+    "id": 263,
+    "pád": "4",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "more",
+    "solution": "moře",
+    "starter": "vidím",
+    "color": "#7c3aed"
+  },
+  {
+    "id": 264,
+    "pád": "5",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "more",
+    "solution": "moře",
+    "starter": "hej",
+    "color": "#7c3aed"
+  },
+  {
+    "id": 265,
+    "pád": "6",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "more",
+    "solution": "mořích",
+    "starter": "o",
+    "color": "#7c3aed"
+  },
+  {
+    "id": 266,
+    "pád": "7",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "more",
+    "solution": "mořemi",
+    "starter": "s",
+    "color": "#7c3aed"
+  },
+  {
+    "id": 267,
+    "pád": "1",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "nádraží",
+    "solution": "nádraží",
+    "starter": "to",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 268,
+    "pád": "2",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "nádraží",
+    "solution": "nádraží",
+    "starter": "bez",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 269,
+    "pád": "3",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "nádraží",
+    "solution": "nádraží",
+    "starter": "k",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 270,
+    "pád": "4",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "nádraží",
+    "solution": "nádraží",
+    "starter": "vidím",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 271,
+    "pád": "5",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "nádraží",
+    "solution": "nádraží",
+    "starter": "hej",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 272,
+    "pád": "6",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "nádraží",
+    "solution": "nádraží",
+    "starter": "o",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 273,
+    "pád": "7",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "nádraží",
+    "solution": "nádražím",
+    "starter": "s",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 274,
+    "pád": "1",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "nádraží",
+    "solution": "nádraží",
+    "starter": "ta",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 275,
+    "pád": "2",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "nádraží",
+    "solution": "nádraží",
+    "starter": "bez",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 276,
+    "pád": "3",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "nádraží",
+    "solution": "nádražím",
+    "starter": "k",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 277,
+    "pád": "4",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "nádraží",
+    "solution": "nádraží",
+    "starter": "vidím",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 278,
+    "pád": "5",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "nádraží",
+    "solution": "nádraží",
+    "starter": "hej",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 279,
+    "pád": "6",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "nádraží",
+    "solution": "nádražích",
+    "starter": "o",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 280,
+    "pád": "7",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "nádraží",
+    "solution": "nádražími",
+    "starter": "s",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 281,
+    "pád": "1",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "nádrazi_alias",
+    "solution": "nádraží",
+    "starter": "to",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 282,
+    "pád": "2",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "nádrazi_alias",
+    "solution": "nádraží",
+    "starter": "bez",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 283,
+    "pád": "3",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "nádrazi_alias",
+    "solution": "nádraží",
+    "starter": "k",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 284,
+    "pád": "4",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "nádrazi_alias",
+    "solution": "nádraží",
+    "starter": "vidím",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 285,
+    "pád": "5",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "nádrazi_alias",
+    "solution": "nádraží",
+    "starter": "hej",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 286,
+    "pád": "6",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "nádrazi_alias",
+    "solution": "nádraží",
+    "starter": "o",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 287,
+    "pád": "7",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "nádrazi_alias",
+    "solution": "nádražím",
+    "starter": "s",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 288,
+    "pád": "1",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "nádrazi_alias",
+    "solution": "nádraží",
+    "starter": "ta",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 289,
+    "pád": "2",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "nádrazi_alias",
+    "solution": "nádraží",
+    "starter": "bez",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 290,
+    "pád": "3",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "nádrazi_alias",
+    "solution": "nádražím",
+    "starter": "k",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 291,
+    "pád": "4",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "nádrazi_alias",
+    "solution": "nádraží",
+    "starter": "vidím",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 292,
+    "pád": "5",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "nádrazi_alias",
+    "solution": "nádraží",
+    "starter": "hej",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 293,
+    "pád": "6",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "nádrazi_alias",
+    "solution": "nádražích",
+    "starter": "o",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 294,
+    "pád": "7",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "nádrazi_alias",
+    "solution": "nádražími",
+    "starter": "s",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 295,
+    "pád": "1",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "kure",
+    "solution": "kuře",
+    "starter": "to",
+    "color": "#a78bfa"
+  },
+  {
+    "id": 296,
+    "pád": "2",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "kure",
+    "solution": "kuřete",
+    "starter": "bez",
+    "color": "#a78bfa"
+  },
+  {
+    "id": 297,
+    "pád": "3",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "kure",
+    "solution": "kuřeti",
+    "starter": "k",
+    "color": "#a78bfa"
+  },
+  {
+    "id": 298,
+    "pád": "4",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "kure",
+    "solution": "kuře",
+    "starter": "vidím",
+    "color": "#a78bfa"
+  },
+  {
+    "id": 299,
+    "pád": "5",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "kure",
+    "solution": "kuře",
+    "starter": "hej",
+    "color": "#a78bfa"
+  },
+  {
+    "id": 300,
+    "pád": "6",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "kure",
+    "solution": "kuřeti",
+    "starter": "o",
+    "color": "#a78bfa"
+  },
+  {
+    "id": 301,
+    "pád": "7",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "kure",
+    "solution": "kuřetem",
+    "starter": "s",
+    "color": "#a78bfa"
+  },
+  {
+    "id": 302,
+    "pád": "1",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "kure",
+    "solution": "kuřata",
+    "starter": "ta",
+    "color": "#a78bfa"
+  },
+  {
+    "id": 303,
+    "pád": "2",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "kure",
+    "solution": "kuřat",
+    "starter": "bez",
+    "color": "#a78bfa"
+  },
+  {
+    "id": 304,
+    "pád": "3",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "kure",
+    "solution": "kuřatům",
+    "starter": "k",
+    "color": "#a78bfa"
+  },
+  {
+    "id": 305,
+    "pád": "4",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "kure",
+    "solution": "kuřata",
+    "starter": "vidím",
+    "color": "#a78bfa"
+  },
+  {
+    "id": 306,
+    "pád": "5",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "kure",
+    "solution": "kuřata",
+    "starter": "hej",
+    "color": "#a78bfa"
+  },
+  {
+    "id": 307,
+    "pád": "6",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "kure",
+    "solution": "kuřatech",
+    "starter": "o",
+    "color": "#a78bfa"
+  },
+  {
+    "id": 308,
+    "pád": "7",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "kure",
+    "solution": "kuřaty",
+    "starter": "s",
+    "color": "#a78bfa"
+  },
+  {
+    "id": 309,
+    "pád": "1",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "kote",
+    "solution": "kotě",
+    "starter": "to",
+    "color": "#c4b5fd"
+  },
+  {
+    "id": 310,
+    "pád": "2",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "kote",
+    "solution": "kotěte",
+    "starter": "bez",
+    "color": "#c4b5fd"
+  },
+  {
+    "id": 311,
+    "pád": "3",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "kote",
+    "solution": "kotěti",
+    "starter": "k",
+    "color": "#c4b5fd"
+  },
+  {
+    "id": 312,
+    "pád": "4",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "kote",
+    "solution": "kotě",
+    "starter": "vidím",
+    "color": "#c4b5fd"
+  },
+  {
+    "id": 313,
+    "pád": "5",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "kote",
+    "solution": "kotě",
+    "starter": "hej",
+    "color": "#c4b5fd"
+  },
+  {
+    "id": 314,
+    "pád": "6",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "kote",
+    "solution": "kotěti",
+    "starter": "o",
+    "color": "#c4b5fd"
+  },
+  {
+    "id": 315,
+    "pád": "7",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "kote",
+    "solution": "kotětem",
+    "starter": "s",
+    "color": "#c4b5fd"
+  },
+  {
+    "id": 316,
+    "pád": "1",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "kote",
+    "solution": "koťata",
+    "starter": "ta",
+    "color": "#c4b5fd"
+  },
+  {
+    "id": 317,
+    "pád": "2",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "kote",
+    "solution": "koťat",
+    "starter": "bez",
+    "color": "#c4b5fd"
+  },
+  {
+    "id": 318,
+    "pád": "3",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "kote",
+    "solution": "koťatům",
+    "starter": "k",
+    "color": "#c4b5fd"
+  },
+  {
+    "id": 319,
+    "pád": "4",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "kote",
+    "solution": "koťata",
+    "starter": "vidím",
+    "color": "#c4b5fd"
+  },
+  {
+    "id": 320,
+    "pád": "5",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "kote",
+    "solution": "koťata",
+    "starter": "hej",
+    "color": "#c4b5fd"
+  },
+  {
+    "id": 321,
+    "pád": "6",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "kote",
+    "solution": "koťatech",
+    "starter": "o",
+    "color": "#c4b5fd"
+  },
+  {
+    "id": 322,
+    "pád": "7",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "kote",
+    "solution": "koťaty",
+    "starter": "s",
+    "color": "#c4b5fd"
+  },
+  {
+    "id": 323,
+    "pád": "1",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "dite",
+    "solution": "dítě",
+    "starter": "to",
+    "color": "#ddd6fe"
+  },
+  {
+    "id": 324,
+    "pád": "2",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "dite",
+    "solution": "dítěte",
+    "starter": "bez",
+    "color": "#ddd6fe"
+  },
+  {
+    "id": 325,
+    "pád": "3",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "dite",
+    "solution": "dítěti",
+    "starter": "k",
+    "color": "#ddd6fe"
+  },
+  {
+    "id": 326,
+    "pád": "4",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "dite",
+    "solution": "dítě",
+    "starter": "vidím",
+    "color": "#ddd6fe"
+  },
+  {
+    "id": 327,
+    "pád": "5",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "dite",
+    "solution": "dítě",
+    "starter": "hej",
+    "color": "#ddd6fe"
+  },
+  {
+    "id": 328,
+    "pád": "6",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "dite",
+    "solution": "dítěti",
+    "starter": "o",
+    "color": "#ddd6fe"
+  },
+  {
+    "id": 329,
+    "pád": "7",
+    "rod": "Střední",
+    "číslo": "Jednotné",
+    "model": "dite",
+    "solution": "dítětem",
+    "starter": "s",
+    "color": "#ddd6fe"
+  },
+  {
+    "id": 330,
+    "pád": "1",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "dite",
+    "solution": "děti",
+    "starter": "ta",
+    "color": "#ddd6fe"
+  },
+  {
+    "id": 331,
+    "pád": "2",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "dite",
+    "solution": "dětí",
+    "starter": "bez",
+    "color": "#ddd6fe"
+  },
+  {
+    "id": 332,
+    "pád": "3",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "dite",
+    "solution": "dětem",
+    "starter": "k",
+    "color": "#ddd6fe"
+  },
+  {
+    "id": 333,
+    "pád": "4",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "dite",
+    "solution": "děti",
+    "starter": "vidím",
+    "color": "#ddd6fe"
+  },
+  {
+    "id": 334,
+    "pád": "5",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "dite",
+    "solution": "děti",
+    "starter": "hej",
+    "color": "#ddd6fe"
+  },
+  {
+    "id": 335,
+    "pád": "6",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "dite",
+    "solution": "dětech",
+    "starter": "o",
+    "color": "#ddd6fe"
+  },
+  {
+    "id": 336,
+    "pád": "7",
+    "rod": "Střední",
+    "číslo": "Množné",
+    "model": "dite",
+    "solution": "dětmi",
+    "starter": "s",
+    "color": "#ddd6fe"
+  }
+]
