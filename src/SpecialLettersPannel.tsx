@@ -1,5 +1,3 @@
-import { useState, useEffect } from "react";
-
 const specialLetters = ["ě", "š", "č", "ř", "ž", "ý", "á", "í", "é", "ú", "ů"];
 
 function Letter({

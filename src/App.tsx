@@ -2,7 +2,6 @@ import { useState, useEffect } from "react";
 import "./App.css";
 import Card from "./Card";
 import SpecialLettersPanel from "./SpecialLettersPannel";
-import Grid from "./Grid";
 
 import CARDS from "./cases.json";
 

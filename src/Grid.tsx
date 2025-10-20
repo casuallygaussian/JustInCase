@@ -1,11 +1,3 @@
-import { useState } from "react";
-
-type Coordinate = {
-  row: string;
-  col: string;
-  cell: string;
-};
-
 function getCoordinates(rows: Array<string>, cols: Array<string>) {
   return rows.map((r) =>
     cols.map((c) => ({ row: r, col: c, area: r + "_" + c }))
