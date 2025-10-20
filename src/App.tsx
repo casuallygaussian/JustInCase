@@ -3,7 +3,7 @@ import "./App.css";
 import Card from "./Card";
 import SpecialLettersPanel from "./SpecialLettersPannel";
 
-import CARDS from "./cases.json";
+import CARDS from "./cases_fixed.json";
 
 function App() {
   const [typedLetter, setTypedLetter] = useState("");
